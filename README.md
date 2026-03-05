@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="logo.png" width="200">
+</p>
+
 # Netxxus VPN
 
 Netxxus VPN es un automatizador diseñado para facilitar la conexión en Xuper TV.
